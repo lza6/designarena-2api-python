@@ -1,0 +1,112 @@
+请求网址
+https://www.designarena.ai/api/voteNew/tournament/90e27ef4-0791-41b5-a87c-626b03fdbd1d/reveal
+请求方法
+GET
+状态代码
+200 OK
+远程地址
+127.0.0.1:10808
+引荐来源网址政策
+strict-origin-when-cross-origin
+age
+0
+cache-control
+no-store, max-age=0
+content-encoding
+br
+content-type
+application/json
+cross-origin-opener-policy
+same-origin-allow-popups
+date
+Sat, 28 Mar 2026 12:32:54 GMT
+permissions-policy
+camera=(), microphone=(self), geolocation=(), payment=()
+referrer-policy
+strict-origin-when-cross-origin
+server
+Vercel
+strict-transport-security
+max-age=31536000; includeSubDomains; preload
+vary
+rsc, next-router-state-tree, next-router-prefetch, next-router-segment-prefetch
+x-content-type-options
+nosniff
+x-frame-options
+DENY
+x-matched-path
+/api/voteNew/tournament/[tournamentId]/reveal
+x-vercel-cache
+MISS
+x-vercel-id
+hkg1::sfo1::szrzz-1774701173628-6dc3a0541ff0
+:authority
+www.designarena.ai
+:method
+GET
+:path
+/api/voteNew/tournament/90e27ef4-0791-41b5-a87c-626b03fdbd1d/reveal
+:scheme
+https
+accept
+*/*
+accept-encoding
+gzip, deflate, br, zstd
+accept-language
+zh-CN,zh;q=0.9,en;q=0.8
+content-type
+application/json
+cookie
+_ga=GA1.1.498965500.1765977860; NEXT_LOCALE=zh; NEXT_TIMEZONE=Asia/Shanghai; _gcl_au=1.1.506033947.1774701053; _ga_YNTFBNE29J=GS2.1.s1774701053$o27$g0$t1774701053$j60$l0$h0; _ga_8YBN2LD1WG=GS2.1.s1774701052$o24$g1$t1774701107$j5$l0$h0; ph_phc_i6iFf7vuaXs59sLohA9hgYK3mOQWEYDEo3qLsXktpGz_posthog=%7B%22%24device_id%22%3A%22019b2c7b-a884-7e5e-a8e7-5dfaa85480e0%22%2C%22distinct_id%22%3A%22kskEZYwPXqTgyodWoiXobGLiGn92%22%2C%22%24sesid%22%3A%5B1774701148153%2C%22019d346d-012a-75f4-bb86-60537ed2b0f9%22%2C1774701052199%5D%2C%22%24epp%22%3Atrue%2C%22%24initial_person_info%22%3A%7B%22r%22%3A%22https%3A%2F%2Fwww.nodeloc.com%2F%22%2C%22u%22%3A%22https%3A%2F%2Fwww.designarena.ai%2F%22%7D%2C%22%24user_state%22%3A%22identified%22%7D
+priority
+u=1, i
+referer
+https://www.designarena.ai/chat/eca887ed-cc27-49de-944e-51c7fe1b7d8e
+sec-ch-ua
+"Not:A-Brand";v="99", "Google Chrome";v="145", "Chromium";v="145"
+sec-ch-ua-mobile
+?0
+sec-ch-ua-platform
+"Windows"
+sec-fetch-dest
+empty
+sec-fetch-mode
+cors
+sec-fetch-site
+same-origin
+user-agent
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
+
+
+{
+    "success": true,
+    "models": {
+        "ded74a7c-37fd-4f81-a8d3-dbe271ccb0d3": {
+            "modelId": "imagen-4.0-generate-001",
+            "displayName": "Imagen 4 Generate 001",
+            "provider": "google"
+        },
+        "356709e2-6aa5-4f38-9a21-7a5e1c7536d1": {
+            "modelId": "recraftv4_pro",
+            "displayName": "Recraft V4 Pro",
+            "provider": "recraft"
+        },
+        "f705330a-aad8-47ba-8a2d-66a318176511": {
+            "modelId": "flux-2-flex",
+            "displayName": "FLUX.2 [flex]",
+            "provider": "black_forest_labs"
+        },
+        "9213bd66-5770-4468-be1a-f322763923b5": {
+            "modelId": "seedream-lite-5.0",
+            "displayName": "Seedream Lite 5.0",
+            "provider": "bytedance"
+        },
+        "1e82c787-c965-4bf5-93a3-ac7885282809": {
+            "modelId": "seedream-4.0",
+            "displayName": "Seedream 4.0",
+            "provider": "bytedance"
+        }
+    }
+}
+
+
